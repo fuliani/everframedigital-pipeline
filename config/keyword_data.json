@@ -1,0 +1,241 @@
+{
+  "_comment": "Real eRank keyword research data, collected 2026-07-16. avg_searches/competition are per-month Etsy figures. Update this file as more keywords are researched (tomorrow: vintage-botanical, seasonal-neutral still pending).",
+  "baseline": {
+    "frame tv art": {
+      "avg_searches": 2933,
+      "avg_clicks": 3121,
+      "ctr": "106%",
+      "competition": 175275
+    },
+    "samsung frame tv art": {
+      "avg_searches": 1388,
+      "competition": null,
+      "ctr": "93%"
+    },
+    "christmas frame tv art": {
+      "avg_searches": 583,
+      "ctr": "97%"
+    },
+    "spring frame tv art": {
+      "avg_searches": 506,
+      "ctr": "100%"
+    },
+    "summer frame tv art": {
+      "avg_searches": 444,
+      "ctr": "115%"
+    }
+  },
+  "styles": {
+    "coastal-landscape": {
+      "lighthouse frame tv art": {
+        "avg_searches": "<20",
+        "competition": 370,
+        "note": "dramatically lowest competition found - priority angle"
+      },
+      "coastal frame tv art": {
+        "avg_searches": "<20",
+        "competition": 11091
+      }
+    },
+    "neutral-botanical": {
+      "wildflower frame tv art": {
+        "avg_searches": "<20",
+        "competition": 11271
+      },
+      "neutral botanical frame tv art": {
+        "avg_searches": "unknown",
+        "competition": 3401
+      }
+    },
+    "minimalist-line-art": {
+      "minimalist frame tv art": {
+        "avg_searches": "<20",
+        "competition": 15480
+      }
+    },
+    "modern-abstract-neutral": {
+      "abstract frame tv art": {
+        "avg_searches": "<20",
+        "competition": 33501,
+        "note": "highest competition of all styles measured"
+      }
+    },
+    "vintage-botanical": {},
+    "seasonal-neutral": {}
+  },
+  "discovery_2026-07-17": {
+    "_comment": "Exploratory seed-term keywords, not yet tied to an existing style - candidates for future niches. desert and japandi stand out with notably low competition.",
+    "nautical frame tv art": {
+      "avg_searches": "<20",
+      "competition": 4732
+    },
+    "farmhouse frame tv art": {
+      "avg_searches": "<20",
+      "competition": 42308,
+      "note": "most saturated in this batch"
+    },
+    "boho frame tv art": {
+      "avg_searches": "<20",
+      "competition": 5998
+    },
+    "watercolor frame tv art": {
+      "avg_searches": "<20",
+      "competition": 11765
+    },
+    "black and white frame tv art": {
+      "avg_searches": "<20",
+      "competition": 6827
+    },
+    "sunset frame tv art": {
+      "avg_searches": "<20",
+      "competition": 4127
+    },
+    "mountain frame tv art": {
+      "avg_searches": "<20",
+      "competition": 6637
+    },
+    "desert frame tv art": {
+      "avg_searches": "unknown",
+      "competition": 1409,
+      "note": "low competition - candidate for a future style"
+    },
+    "tropical frame tv art": {
+      "avg_searches": "unknown",
+      "competition": 10707
+    },
+    "japandi frame tv art": {
+      "avg_searches": "<20",
+      "competition": 1405,
+      "note": "low competition - candidate for a future style"
+    }
+  },
+  "discovery_2026-07-18": {
+    "_comment": "Auto-collected via scripts/erank_daily_collect.py",
+    "cottagecore frame tv art": {
+      "avg_searches": "<20",
+      "competition": 8083
+    },
+    "moody frame tv art": {
+      "avg_searches": "<20",
+      "avg_clicks": "<20",
+      "ctr": "<20%",
+      "competition": 15494
+    },
+    "beach house frame tv art": {
+      "avg_searches": "Unknown",
+      "avg_clicks": "Unknown",
+      "ctr": "Unknown",
+      "competition": 2665
+    },
+    "fall frame tv art": {
+      "avg_searches": 399,
+      "avg_clicks": 395,
+      "ctr": "99%",
+      "competition": 23517
+    },
+    "winter frame tv art": {
+      "avg_searches": 304,
+      "avg_clicks": 300,
+      "ctr": "99%",
+      "competition": 28631
+    },
+    "spring frame tv art": {
+      "avg_searches": 506,
+      "avg_clicks": 507,
+      "ctr": "100%",
+      "competition": 25746
+    },
+    "summer frame tv art": {
+      "avg_searches": "unknown",
+      "avg_clicks": 510,
+      "ctr": "115%",
+      "competition": 20920
+    },
+    "gallery wall frame tv art": {
+      "avg_searches": "Unknown",
+      "avg_clicks": "Unknown",
+      "ctr": "Unknown",
+      "competition": 5678
+    },
+    "textured frame tv art": {
+      "avg_searches": "< 20",
+      "avg_clicks": "Unknown",
+      "ctr": "Unknown",
+      "competition": 10583
+    },
+    "impressionist frame tv art": {
+      "avg_searches": "< 20",
+      "avg_clicks": "Unknown",
+      "ctr": "Unknown",
+      "competition": 6186
+    },
+    "map frame tv art": {
+      "avg_searches": "unknown",
+      "avg_clicks": "unknown",
+      "ctr": "unknown",
+      "competition": "unknown"
+    }
+  },
+  "discovery_2026-07-19": {
+    "_comment": "Auto-collected via scripts/erank_daily_collect.py",
+    "gold frame tv art": {
+      "avg_searches": "<20",
+      "ctr": "Unknown",
+      "competition": 6388
+    },
+    "navy frame tv art": {
+      "avg_searches": "unknown",
+      "avg_clicks": "unknown",
+      "ctr": "unknown",
+      "competition": 448
+    },
+    "sage green frame tv art": {
+      "avg_searches": "Unknown",
+      "avg_clicks": "Unknown",
+      "ctr": "Unknown",
+      "competition": 591
+    },
+    "terracotta frame tv art": {
+      "avg_searches": "Unknown",
+      "avg_clicks": "Unknown",
+      "ctr": "Unknown",
+      "competition": 221
+    },
+    "pink frame tv art": {
+      "avg_searches": "<20",
+      "avg_clicks": "Unknown",
+      "ctr": "Unknown",
+      "competition": 18660
+    },
+    "art deco frame tv art": {
+      "avg_searches": "Unknown",
+      "avg_clicks": "Unknown",
+      "ctr": "Unknown",
+      "competition": 5993
+    },
+    "mid century frame tv art": {
+      "avg_searches": "< 20",
+      "avg_clicks": "Unknown",
+      "ctr": "Unknown",
+      "competition": 3832
+    },
+    "renaissance frame tv art": {
+      "avg_searches": "Unknown",
+      "avg_clicks": "Unknown",
+      "ctr": "Unknown",
+      "competition": 351
+    },
+    "japanese frame tv art": {
+      "avg_searches": "<20",
+      "avg_clicks": "Unknown",
+      "ctr": "Unknown",
+      "competition": 2132
+    },
+    "french country frame tv art": {
+      "avg_searches": "< 20",
+      "avg_clicks": "Unknown",
+      "ctr": "Unknown",
+      "competition": 2405
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "_comment": "Seed terms for the daily eRank keyword-discovery job. Each day pops 5 terms per account (10 total) off the front of this queue, searches them, logs results to keyword_ideas_database.json, and removes them. Add more terms to the end as the queue runs low (check daily_keyword_log.txt for the low-queue warning).",
+  "queue": [],
+  "explored": [
+    "nautical frame tv art",
+    "farmhouse frame tv art",
+    "boho frame tv art",
+    "watercolor frame tv art",
+    "black and white frame tv art",
+    "sunset frame tv art",
+    "mountain frame tv art",
+    "desert frame tv art",
+    "tropical frame tv art",
+    "japandi frame tv art"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "_comment": "Seed terms for the periodic Omkar Etsy research job (scripts/etsy_opportunity_research_periodic.py). Each run pops a few terms off the front of this queue and researches them; on live-API failure (e.g. Omkar outage), terms are put back so nothing is lost. Separate from config/keyword_seed_queue.json (the eRank queue) so the two jobs don't compete over the same list. Add more terms to the end as it runs low.",
+  "keywords_per_run": 5,
+  "queue": [
+    "samsung frame tv art",
+    "japandi wall art",
+    "desert wall art",
+    "coastal frame tv art",
+    "minimalist frame tv art",
+    "vintage botanical wall art",
+    "abstract frame tv art",
+    "seasonal frame tv art",
+    "scripture wall art",
+    "christian frame tv art",
+    "neutral botanical frame tv art",
+    "boho wall art",
+    "gallery wall printable set",
+    "farmhouse frame tv art",
+    "black and white frame tv art",
+    "sunset frame tv art",
+    "impressionist wall art",
+    "nautical frame tv art",
+    "mountain frame tv art",
+    "beach house frame tv art"
+  ]
+}
